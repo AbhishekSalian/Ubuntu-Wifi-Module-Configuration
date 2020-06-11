@@ -1,5 +1,5 @@
 # Ubuntu Wifi module installation
-Due to kernel update in ubuntu you are no able to get the header file for your wifi in lwfinger rtlwifi_new repo so this repo contains code to install rtl8723de wifi module in your ubuntu laptop or pc. This works for kernel version>=5.0 as well.
+Due to kernel update in ubuntu you are no more able to get the header file for your wifi in lwfinger rtlwifi_new repo so this repo contains code to install rtl8723de wifi module in your ubuntu laptop or pc. This works for kernel version>=5.0 as well.
 
 Following are the steps:-
 
