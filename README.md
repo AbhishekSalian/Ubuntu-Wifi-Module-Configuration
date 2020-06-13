@@ -21,9 +21,5 @@ Following are the steps:-
 ## Step 7
 ``sudo modprobe rtl8723de``
 
-## Step 8 (optional)
-If you want to change wifi antenna due to low signal strength you may do it using following code
-``cd ~/rtlwifi_new/ && sudo modprobe -r rtl8723de && sleep 5 && sudo modprobe rtl8723de ant_sel=2``
-Here I have selected antenna no. 2 you may change it to tune it for yourself
 
 Done!!!
